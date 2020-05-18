@@ -1,0 +1,8 @@
+v2.0 raw
+1e      # LDA 14
+2f      # ADD 15
+70      # OUT
+00      # HLT
+10*0
+1c
+0e

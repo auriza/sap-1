@@ -1,0 +1,8 @@
+v2.0 raw
+5c      # LDI 12
+4f      # STA 15
+50      # LDI 0
+70      # OUT
+2f      # ADD 15
+92      # JC  2
+63      # JMP 3
